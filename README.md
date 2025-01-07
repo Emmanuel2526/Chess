@@ -1,21 +1,6 @@
-<!--
-# Chess
- A two player chess game in html/css/javascript.
-It also allows for players to play with different computers over a php websocket server.
-<br>
- [Play game here.](html/)
-<br>
-If you're new to the chess, I'd ask to go through this [Wikipedia Article on Chess](https://en.m.wikipedia.org/wiki/Chess) for a general overview of the game.
--->
 # Chess
 
 Welcome to the **Chess** project! This is a two-player chess game implemented using HTML, CSS, and JavaScript. The game offers both local and online multiplayer modes, allowing you to play against friends or challenge opponents from around the world via a PHP WebSocket server.
-
-## Features
-
-- **Multiplayer Mode:** Engage in head-to-head battles, either locally or online.
-- **Responsive Design:** Enjoy a seamless experience on desktops, tablets, and mobile devices.
-- **Real-time Gameplay:** Powered by WebSocket technology for smooth, lag-free interaction.
 
 ## Play the Game
 
@@ -53,49 +38,15 @@ Enhance your chess abilities by watching these curated videos from the **Chess M
 
 For more videos and tutorials, explore the entire [Chess Moves Explained Playlist](https://youtube.com/playlist?list=PLjpc-cCmUs68EYXpw9stM1T23vbxEJTac&si=tJqTP5b_i6pFmUJe) and subscribe to the [Osalotioman YouTube Channel](https://m.youtube.com/@osalotioman?reload=9).
 
-## Getting Started
+## Additional Documentation
 
-### Prerequisites
+For more detailed information, please refer to the following documentation files:
 
-To run this project locally, ensure you have a web server with PHP support.
-
-### Installation
-
-1. Clone this repository to your local machine:
-
-    ```bash
-    git clone https://github.com/Osalotioman/Chess.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd Chess
-    ```
-
-3. Start your local server:
-
-    ```bash
-    php -S localhost:8000
-    ```
-
-4. Open your browser and navigate to:
-
-    ```
-    http://localhost:8000/html/
-    ```
-
-5. Start playing!
-
-## How to Contribute
-
-Contributions are welcome! If you have ideas or improvements, feel free to fork this repository and submit a pull request.
-
-### Contribution Guidelines
-
-- Follow the existing coding style.
-- Ensure your code is well-commented.
-- Test thoroughly before submitting.
+- [Contribution Guidelines](docs/CONTRIBUTING.md)
+- [Changelog](docs/CHANGELOG.md)
+- [User Guide](docs/USER_GUIDE.md)
+- [API Documentation](docs/API.md)
+- [Deployment Instructions](docs/DEPLOYMENT.md)
 
 ## License
 
